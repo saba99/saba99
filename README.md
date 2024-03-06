@@ -23,6 +23,5 @@
 - 🌱 I’m currently learning Adv. Python .
 - 🤔 My research interests are with Generative AI,LLMs, Computer Vision, Deep Learning, etc.
 - 📫 Please email via sabahesaraki1999@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1IWmEFgJ6FKY5rMy-g2yQsdeyScZmMCVe/view?usp=sharing) to get more info.
 
 [![Saba Hesaraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=saba99&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
