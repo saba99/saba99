@@ -19,9 +19,9 @@
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on Care Vox.
-- 🌱 I’m currently learning Adv. Python .
-- 🤔 My research interests are with Generative AI,LLMs, Computer Vision, Deep Learning, etc.
+- 👨🏻‍💻 I’m currently working at Care Vox.
+- 🌱 I’m currently learning Adv. Python & GenAI .
+- 🤔 My research interests are with Generative AI, LLMs, Computer Vision, Deep Learning, etc.
 - 📫 Please email via sabahesaraki1999@gmail.com to reach me.
 
 [![Saba Hesaraki's GitHub stats](https://github-readme-stats.vercel.app/api?username=saba99&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
